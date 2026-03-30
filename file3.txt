@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 line 3
 line 4
 liner sixer
+=======
+this is for branch
+line five
+>>>>>>> featurebranch
