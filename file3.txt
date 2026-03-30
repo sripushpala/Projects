@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 line 3 " this is line 3"
 line 4 " excellent"
+=======
+line 3  this is line 3
+line 4  this is line 4 super
+>>>>>>> featurebranch
 liner sixer
 =======
 this is for branch
